@@ -21,7 +21,7 @@ Web developer who loves building clean, responsive, and interactive web applicat
 ---
 
 ### 📊 GitHub Stats
-![Sofyan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmadsofyannn&theme=tokyonight&hide_border=true)
+![Sofyan's GitHub Stats](https://github-readme-stats-eight-now.vercel.app/api?username=ahmadsofyannn&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
